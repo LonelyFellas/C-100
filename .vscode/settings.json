@@ -1,5 +1,7 @@
 {
   "cSpell.words": [
-    "scanf"
-  ]
+    "scanf",
+    "stdbool"
+  ],
+  "C_Cpp.errorSquiggles": "disabled"
 }
